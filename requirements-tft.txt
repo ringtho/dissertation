@@ -1,0 +1,8 @@
+torch==2.3.1
+lightning==2.5.5
+pytorch-lightning==2.3.3
+pytorch-forecasting==1.5.0
+scikit-learn==1.7.2
+pandas==2.2.3
+matplotlib==3.10.0
+shap==0.45.0

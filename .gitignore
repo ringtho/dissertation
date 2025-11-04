@@ -1,0 +1,31 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.jupyter-runtime/
+
+# Logs / cache
+*.log
+
+# Experiment outputs (keep placeholder files only)
+experiments/*
+!experiments/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+lightning_logs/*
+!lightning_logs/.gitkeep
+
+# Virtual environments
+.venv/
+env/
+venv/
+
